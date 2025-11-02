@@ -24,7 +24,7 @@
 **Índice:**
 
   - [X] Iniciando o projeto
-  - [ ] Iniciando o style guide do projeto
+  - [X] Iniciando o style guide do projeto
   - [ ] Fontes do projeto
   - [ ] Estruturando a navegação
   - [ ] Estilizando a navegação parte 01
