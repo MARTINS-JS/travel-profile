@@ -23,7 +23,7 @@
 
 **Índice:**
 
-  - [ ] Iniciando o projeto
+  - [X] Iniciando o projeto
   - [ ] Iniciando o style guide do projeto
   - [ ] Fontes do projeto
   - [ ] Estruturando a navegação
