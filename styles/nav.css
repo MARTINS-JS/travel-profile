@@ -1,0 +1,38 @@
+nav {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  line-height: 0;
+  padding: 20px 32px;
+}
+
+nav a img {
+  height: 32px;
+  width: 162px;
+}
+
+nav ul {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding-block: 8px;
+}
+
+nav ul li:first-child a {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li:first-child img {
+  height: 32px;
+  width: 32px;
+}
+
+nav ul li:last-child img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 40px;
+  width: 40px;
+}
