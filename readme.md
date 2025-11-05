@@ -27,7 +27,7 @@
   - [X] Iniciando o style guide do projeto
   - [X] Fontes do projeto
   - [X] Estruturando a navegação
-  - [ ] Estilizando a navegação parte 01
+  - [X] Estilizando a navegação parte 01
   - [ ] Estilizando a navegação parte 02
   - [ ] Estruturando o header
   - [ ] Estilizando o header
