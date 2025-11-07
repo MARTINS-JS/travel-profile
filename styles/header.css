@@ -1,0 +1,45 @@
+header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-block: 32px;
+}
+
+.profile {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+}
+
+.profile div {
+  width: 384px;
+}
+
+.profile div h1 {
+  color: var(--text-color-primary);
+  font: var(--text-lg);
+  margin-bottom: 8px;
+}
+
+.profile div p {
+  color: var(--text-color-secondary);
+  font: var(--text-md);
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  list-style: none;
+}
+
+.info li {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+}
+
+.info li span {
+  color: var(--text-color-secondary);
+  font: var(--text-md);
+}
