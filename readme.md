@@ -28,7 +28,7 @@
   - [X] Fontes do projeto
   - [X] Estruturando a navegação
   - [X] Estilizando a navegação parte 01
-  - [ ] Estilizando a navegação parte 02
+  - [X] Estilizando a navegação parte 02
   - [ ] Estruturando o header
   - [ ] Estilizando o header
   - [ ] Galeria de imagens com flex
