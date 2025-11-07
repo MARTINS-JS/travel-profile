@@ -30,7 +30,7 @@
   - [X] Estilizando a navegação parte 01
   - [X] Estilizando a navegação parte 02
   - [X] Estruturando o header
-  - [ ] Estilizando o header
+  - [X] Estilizando o header
   - [ ] Galeria de imagens com flex
   - [ ] Criando o footer do projeto
   - [ ] Ajustes finais
