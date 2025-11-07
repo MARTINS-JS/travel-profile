@@ -3,7 +3,7 @@ nav {
   display: flex;
   justify-content: space-between;
   line-height: 0;
-  padding: 20px 32px;
+  padding-block: 24px;
 }
 
 nav a img {
