@@ -32,7 +32,7 @@
   - [X] Estruturando o header
   - [X] Estilizando o header
   - [X] Galeria de imagens com flex
-  - [ ] Criando o footer do projeto
+  - [X] Criando o footer do projeto
   - [ ] Ajustes finais
 
 <div style="">
