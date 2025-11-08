@@ -11,6 +11,13 @@ header {
   gap: 32px;
 }
 
+.profile img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 176px;
+  width: 176px;
+}
+
 .profile div {
   width: 384px;
 }

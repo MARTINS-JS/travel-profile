@@ -7,6 +7,7 @@ footer {
 
 footer span {
   color: var(--text-color-secondary);
+  cursor: pointer;
   font: 14px/150% var(--font-family);
 }
 
